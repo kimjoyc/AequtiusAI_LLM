@@ -1,5 +1,5 @@
 # AequtiusAI_LLM
-[View PDF: UC Berkeley AI 2024 Hackathon](AI 2.0 Hacker Guide.pdf)
+[View PDF: UC Berkeley AI 2024 Hackathon](AI2.0HackerGuide.pdf)
 
 # LLM Prototype (Free Version Open-Source Models)
 
